@@ -1,20 +1,19 @@
 {
-  "name": "simple website",
-  "version": "0.0.1",
-  "description": "Simple server-side JS order processing",
+  "name": "firstNodeWS",
+  "version": "0.0.0",
+  "description": "testing",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "sequelize": "~2.0.0-alpha2",
-    "pg": "~2.3.1",
-    "ejs": "~0.8.4",
-    "express": "~3.3.4",
-    "async": "~0.2.9"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BogdanCS/firstNodeWS.git"
   },
-  "engines": {
-    "node": "0.10.12",
-    "npm": "1.2.30"
-  }
+  "author": "Bogdan Stoian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogdanCS/firstNodeWS/issues"
+  },
+  "homepage": "https://github.com/BogdanCS/firstNodeWS"
 }
