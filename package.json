@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BogdanCS/firstNodeWS/issues"
   },
-  "homepage": "https://github.com/BogdanCS/firstNodeWS"
+  "homepage": "https://github.com/BogdanCS/firstNodeWS",
+  "dependencies": {
+    "express": "^4.4.5"
+  }
 }
