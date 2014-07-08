@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/BogdanCS/firstNodeWS",
   "dependencies": {
-    "express": "^4.4.5"
+    "express": "^4.4.5",
+    "cheerio": "^0.17.0",
+    "commander": "^2.2.0",
+    "restler": "^3.2.2"
   }
 }
